@@ -1,0 +1,14 @@
+transformers>=4.30.0
+datasets
+torch
+scikit-learn
+pandas
+numpy
+streamlit
+uvicorn
+fastapi
+joblib
+loguru
+pytest
+tensorboard
+sentencepiece
